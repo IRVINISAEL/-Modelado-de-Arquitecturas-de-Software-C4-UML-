@@ -71,7 +71,7 @@ Rediseñar el sistema monolítico actual de inscripciones y pagos de la universi
 
 # Diagrama uml de dezpliegue
 
-![Diagrama uml](./Diagrama de caso de uso (1).png)
+![Diagrama uml](./uml.png)
 ---
 
 ## Decisiones Arquitectónicas (ADR)  
